@@ -1,0 +1,23 @@
+name: sbc_transit
+description: Sarvatobhadra Chakra live transit explorer using sidereal Lahiri calculations.
+publish_to: "none"
+version: 0.1.0+1
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  vedic_panchanga_dart: ^0.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/data/sbc_rules.json
