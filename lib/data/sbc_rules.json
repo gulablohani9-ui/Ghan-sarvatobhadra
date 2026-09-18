@@ -1,0 +1,758 @@
+[
+  {
+    "nakshatra": "Ashwini",
+    "pada": 1,
+    "front": "Purva Phalguni",
+    "right": "Jyeshtha",
+    "left": "Rohini"
+  },
+  {
+    "nakshatra": "Ashwini",
+    "pada": 2,
+    "front": "Purva Phalguni",
+    "right": "Jyeshtha",
+    "left": "Rohini"
+  },
+  {
+    "nakshatra": "Ashwini",
+    "pada": 3,
+    "front": "Purva Phalguni",
+    "right": "Jyeshtha",
+    "left": "Rohini"
+  },
+  {
+    "nakshatra": "Ashwini",
+    "pada": 4,
+    "front": "Purva Phalguni",
+    "right": "Jyeshtha",
+    "left": "Rohini"
+  },
+  {
+    "nakshatra": "Bharani",
+    "pada": 1,
+    "front": "Uttara Phalguni",
+    "right": "Mula",
+    "left": "Mrigashira"
+  },
+  {
+    "nakshatra": "Bharani",
+    "pada": 2,
+    "front": "Uttara Phalguni",
+    "right": "Mula",
+    "left": "Mrigashira"
+  },
+  {
+    "nakshatra": "Bharani",
+    "pada": 3,
+    "front": "Uttara Phalguni",
+    "right": "Mula",
+    "left": "Mrigashira"
+  },
+  {
+    "nakshatra": "Bharani",
+    "pada": 4,
+    "front": "Uttara Phalguni",
+    "right": "Mula",
+    "left": "Mrigashira"
+  },
+  {
+    "nakshatra": "Krittika",
+    "pada": 1,
+    "front": "Hasta",
+    "right": "Purva Ashadha",
+    "left": "Ardra"
+  },
+  {
+    "nakshatra": "Krittika",
+    "pada": 2,
+    "front": "Hasta",
+    "right": "Purva Ashadha",
+    "left": "Ardra"
+  },
+  {
+    "nakshatra": "Krittika",
+    "pada": 3,
+    "front": "Hasta",
+    "right": "Purva Ashadha",
+    "left": "Ardra"
+  },
+  {
+    "nakshatra": "Krittika",
+    "pada": 4,
+    "front": "Hasta",
+    "right": "Purva Ashadha",
+    "left": "Ardra"
+  },
+  {
+    "nakshatra": "Rohini",
+    "pada": 1,
+    "front": "Chitra",
+    "right": "Uttara Ashadha",
+    "left": "Punarvasu"
+  },
+  {
+    "nakshatra": "Rohini",
+    "pada": 2,
+    "front": "Chitra",
+    "right": "Uttara Ashadha",
+    "left": "Punarvasu"
+  },
+  {
+    "nakshatra": "Rohini",
+    "pada": 3,
+    "front": "Chitra",
+    "right": "Uttara Ashadha",
+    "left": "Punarvasu"
+  },
+  {
+    "nakshatra": "Rohini",
+    "pada": 4,
+    "front": "Chitra",
+    "right": "Uttara Ashadha",
+    "left": "Punarvasu"
+  },
+  {
+    "nakshatra": "Mrigashira",
+    "pada": 1,
+    "front": "Swati",
+    "right": "Shravana",
+    "left": "Pushya"
+  },
+  {
+    "nakshatra": "Mrigashira",
+    "pada": 2,
+    "front": "Swati",
+    "right": "Shravana",
+    "left": "Pushya"
+  },
+  {
+    "nakshatra": "Mrigashira",
+    "pada": 3,
+    "front": "Swati",
+    "right": "Shravana",
+    "left": "Pushya"
+  },
+  {
+    "nakshatra": "Mrigashira",
+    "pada": 4,
+    "front": "Swati",
+    "right": "Shravana",
+    "left": "Pushya"
+  },
+  {
+    "nakshatra": "Ardra",
+    "pada": 1,
+    "front": "Vishakha",
+    "right": "Dhanishtha",
+    "left": "Ashlesha"
+  },
+  {
+    "nakshatra": "Ardra",
+    "pada": 2,
+    "front": "Vishakha",
+    "right": "Dhanishtha",
+    "left": "Ashlesha"
+  },
+  {
+    "nakshatra": "Ardra",
+    "pada": 3,
+    "front": "Vishakha",
+    "right": "Dhanishtha",
+    "left": "Ashlesha"
+  },
+  {
+    "nakshatra": "Ardra",
+    "pada": 4,
+    "front": "Vishakha",
+    "right": "Dhanishtha",
+    "left": "Ashlesha"
+  },
+  {
+    "nakshatra": "Punarvasu",
+    "pada": 1,
+    "front": "Anuradha",
+    "right": "Shatabhisha",
+    "left": "Magha"
+  },
+  {
+    "nakshatra": "Punarvasu",
+    "pada": 2,
+    "front": "Anuradha",
+    "right": "Shatabhisha",
+    "left": "Magha"
+  },
+  {
+    "nakshatra": "Punarvasu",
+    "pada": 3,
+    "front": "Anuradha",
+    "right": "Shatabhisha",
+    "left": "Magha"
+  },
+  {
+    "nakshatra": "Punarvasu",
+    "pada": 4,
+    "front": "Anuradha",
+    "right": "Shatabhisha",
+    "left": "Magha"
+  },
+  {
+    "nakshatra": "Pushya",
+    "pada": 1,
+    "front": "Jyeshtha",
+    "right": "Purva Bhadrapada",
+    "left": "Purva Phalguni"
+  },
+  {
+    "nakshatra": "Pushya",
+    "pada": 2,
+    "front": "Jyeshtha",
+    "right": "Purva Bhadrapada",
+    "left": "Purva Phalguni"
+  },
+  {
+    "nakshatra": "Pushya",
+    "pada": 3,
+    "front": "Jyeshtha",
+    "right": "Purva Bhadrapada",
+    "left": "Purva Phalguni"
+  },
+  {
+    "nakshatra": "Pushya",
+    "pada": 4,
+    "front": "Jyeshtha",
+    "right": "Purva Bhadrapada",
+    "left": "Purva Phalguni"
+  },
+  {
+    "nakshatra": "Ashlesha",
+    "pada": 1,
+    "front": "Mula",
+    "right": "Uttara Bhadrapada",
+    "left": "Uttara Phalguni"
+  },
+  {
+    "nakshatra": "Ashlesha",
+    "pada": 2,
+    "front": "Mula",
+    "right": "Uttara Bhadrapada",
+    "left": "Uttara Phalguni"
+  },
+  {
+    "nakshatra": "Ashlesha",
+    "pada": 3,
+    "front": "Mula",
+    "right": "Uttara Bhadrapada",
+    "left": "Uttara Phalguni"
+  },
+  {
+    "nakshatra": "Ashlesha",
+    "pada": 4,
+    "front": "Mula",
+    "right": "Uttara Bhadrapada",
+    "left": "Uttara Phalguni"
+  },
+  {
+    "nakshatra": "Magha",
+    "pada": 1,
+    "front": "Purva Ashadha",
+    "right": "Revati",
+    "left": "Hasta"
+  },
+  {
+    "nakshatra": "Magha",
+    "pada": 2,
+    "front": "Purva Ashadha",
+    "right": "Revati",
+    "left": "Hasta"
+  },
+  {
+    "nakshatra": "Magha",
+    "pada": 3,
+    "front": "Purva Ashadha",
+    "right": "Revati",
+    "left": "Hasta"
+  },
+  {
+    "nakshatra": "Magha",
+    "pada": 4,
+    "front": "Purva Ashadha",
+    "right": "Revati",
+    "left": "Hasta"
+  },
+  {
+    "nakshatra": "Purva Phalguni",
+    "pada": 1,
+    "front": "Uttara Ashadha",
+    "right": "Ashwini",
+    "left": "Chitra"
+  },
+  {
+    "nakshatra": "Purva Phalguni",
+    "pada": 2,
+    "front": "Uttara Ashadha",
+    "right": "Ashwini",
+    "left": "Chitra"
+  },
+  {
+    "nakshatra": "Purva Phalguni",
+    "pada": 3,
+    "front": "Uttara Ashadha",
+    "right": "Ashwini",
+    "left": "Chitra"
+  },
+  {
+    "nakshatra": "Purva Phalguni",
+    "pada": 4,
+    "front": "Uttara Ashadha",
+    "right": "Ashwini",
+    "left": "Chitra"
+  },
+  {
+    "nakshatra": "Uttara Phalguni",
+    "pada": 1,
+    "front": "Shravana",
+    "right": "Bharani",
+    "left": "Swati"
+  },
+  {
+    "nakshatra": "Uttara Phalguni",
+    "pada": 2,
+    "front": "Shravana",
+    "right": "Bharani",
+    "left": "Swati"
+  },
+  {
+    "nakshatra": "Uttara Phalguni",
+    "pada": 3,
+    "front": "Shravana",
+    "right": "Bharani",
+    "left": "Swati"
+  },
+  {
+    "nakshatra": "Uttara Phalguni",
+    "pada": 4,
+    "front": "Shravana",
+    "right": "Bharani",
+    "left": "Swati"
+  },
+  {
+    "nakshatra": "Hasta",
+    "pada": 1,
+    "front": "Dhanishtha",
+    "right": "Krittika",
+    "left": "Vishakha"
+  },
+  {
+    "nakshatra": "Hasta",
+    "pada": 2,
+    "front": "Dhanishtha",
+    "right": "Krittika",
+    "left": "Vishakha"
+  },
+  {
+    "nakshatra": "Hasta",
+    "pada": 3,
+    "front": "Dhanishtha",
+    "right": "Krittika",
+    "left": "Vishakha"
+  },
+  {
+    "nakshatra": "Hasta",
+    "pada": 4,
+    "front": "Dhanishtha",
+    "right": "Krittika",
+    "left": "Vishakha"
+  },
+  {
+    "nakshatra": "Chitra",
+    "pada": 1,
+    "front": "Shatabhisha",
+    "right": "Rohini",
+    "left": "Anuradha"
+  },
+  {
+    "nakshatra": "Chitra",
+    "pada": 2,
+    "front": "Shatabhisha",
+    "right": "Rohini",
+    "left": "Anuradha"
+  },
+  {
+    "nakshatra": "Chitra",
+    "pada": 3,
+    "front": "Shatabhisha",
+    "right": "Rohini",
+    "left": "Anuradha"
+  },
+  {
+    "nakshatra": "Chitra",
+    "pada": 4,
+    "front": "Shatabhisha",
+    "right": "Rohini",
+    "left": "Anuradha"
+  },
+  {
+    "nakshatra": "Swati",
+    "pada": 1,
+    "front": "Purva Bhadrapada",
+    "right": "Mrigashira",
+    "left": "Jyeshtha"
+  },
+  {
+    "nakshatra": "Swati",
+    "pada": 2,
+    "front": "Purva Bhadrapada",
+    "right": "Mrigashira",
+    "left": "Jyeshtha"
+  },
+  {
+    "nakshatra": "Swati",
+    "pada": 3,
+    "front": "Purva Bhadrapada",
+    "right": "Mrigashira",
+    "left": "Jyeshtha"
+  },
+  {
+    "nakshatra": "Swati",
+    "pada": 4,
+    "front": "Purva Bhadrapada",
+    "right": "Mrigashira",
+    "left": "Jyeshtha"
+  },
+  {
+    "nakshatra": "Vishakha",
+    "pada": 1,
+    "front": "Uttara Bhadrapada",
+    "right": "Ardra",
+    "left": "Mula"
+  },
+  {
+    "nakshatra": "Vishakha",
+    "pada": 2,
+    "front": "Uttara Bhadrapada",
+    "right": "Ardra",
+    "left": "Mula"
+  },
+  {
+    "nakshatra": "Vishakha",
+    "pada": 3,
+    "front": "Uttara Bhadrapada",
+    "right": "Ardra",
+    "left": "Mula"
+  },
+  {
+    "nakshatra": "Vishakha",
+    "pada": 4,
+    "front": "Uttara Bhadrapada",
+    "right": "Ardra",
+    "left": "Mula"
+  },
+  {
+    "nakshatra": "Anuradha",
+    "pada": 1,
+    "front": "Revati",
+    "right": "Punarvasu",
+    "left": "Purva Ashadha"
+  },
+  {
+    "nakshatra": "Anuradha",
+    "pada": 2,
+    "front": "Revati",
+    "right": "Punarvasu",
+    "left": "Purva Ashadha"
+  },
+  {
+    "nakshatra": "Anuradha",
+    "pada": 3,
+    "front": "Revati",
+    "right": "Punarvasu",
+    "left": "Purva Ashadha"
+  },
+  {
+    "nakshatra": "Anuradha",
+    "pada": 4,
+    "front": "Revati",
+    "right": "Punarvasu",
+    "left": "Purva Ashadha"
+  },
+  {
+    "nakshatra": "Jyeshtha",
+    "pada": 1,
+    "front": "Ashwini",
+    "right": "Pushya",
+    "left": "Uttara Ashadha"
+  },
+  {
+    "nakshatra": "Jyeshtha",
+    "pada": 2,
+    "front": "Ashwini",
+    "right": "Pushya",
+    "left": "Uttara Ashadha"
+  },
+  {
+    "nakshatra": "Jyeshtha",
+    "pada": 3,
+    "front": "Ashwini",
+    "right": "Pushya",
+    "left": "Uttara Ashadha"
+  },
+  {
+    "nakshatra": "Jyeshtha",
+    "pada": 4,
+    "front": "Ashwini",
+    "right": "Pushya",
+    "left": "Uttara Ashadha"
+  },
+  {
+    "nakshatra": "Mula",
+    "pada": 1,
+    "front": "Bharani",
+    "right": "Ashlesha",
+    "left": "Shravana"
+  },
+  {
+    "nakshatra": "Mula",
+    "pada": 2,
+    "front": "Bharani",
+    "right": "Ashlesha",
+    "left": "Shravana"
+  },
+  {
+    "nakshatra": "Mula",
+    "pada": 3,
+    "front": "Bharani",
+    "right": "Ashlesha",
+    "left": "Shravana"
+  },
+  {
+    "nakshatra": "Mula",
+    "pada": 4,
+    "front": "Bharani",
+    "right": "Ashlesha",
+    "left": "Shravana"
+  },
+  {
+    "nakshatra": "Purva Ashadha",
+    "pada": 1,
+    "front": "Krittika",
+    "right": "Magha",
+    "left": "Dhanishtha"
+  },
+  {
+    "nakshatra": "Purva Ashadha",
+    "pada": 2,
+    "front": "Krittika",
+    "right": "Magha",
+    "left": "Dhanishtha"
+  },
+  {
+    "nakshatra": "Purva Ashadha",
+    "pada": 3,
+    "front": "Krittika",
+    "right": "Magha",
+    "left": "Dhanishtha"
+  },
+  {
+    "nakshatra": "Purva Ashadha",
+    "pada": 4,
+    "front": "Krittika",
+    "right": "Magha",
+    "left": "Dhanishtha"
+  },
+  {
+    "nakshatra": "Uttara Ashadha",
+    "pada": 1,
+    "front": "Rohini",
+    "right": "Purva Phalguni",
+    "left": "Shatabhisha"
+  },
+  {
+    "nakshatra": "Uttara Ashadha",
+    "pada": 2,
+    "front": "Rohini",
+    "right": "Purva Phalguni",
+    "left": "Shatabhisha"
+  },
+  {
+    "nakshatra": "Uttara Ashadha",
+    "pada": 3,
+    "front": "Rohini",
+    "right": "Purva Phalguni",
+    "left": "Shatabhisha"
+  },
+  {
+    "nakshatra": "Uttara Ashadha",
+    "pada": 4,
+    "front": "Rohini",
+    "right": "Purva Phalguni",
+    "left": "Shatabhisha"
+  },
+  {
+    "nakshatra": "Shravana",
+    "pada": 1,
+    "front": "Mrigashira",
+    "right": "Uttara Phalguni",
+    "left": "Purva Bhadrapada"
+  },
+  {
+    "nakshatra": "Shravana",
+    "pada": 2,
+    "front": "Mrigashira",
+    "right": "Uttara Phalguni",
+    "left": "Purva Bhadrapada"
+  },
+  {
+    "nakshatra": "Shravana",
+    "pada": 3,
+    "front": "Mrigashira",
+    "right": "Uttara Phalguni",
+    "left": "Purva Bhadrapada"
+  },
+  {
+    "nakshatra": "Shravana",
+    "pada": 4,
+    "front": "Mrigashira",
+    "right": "Uttara Phalguni",
+    "left": "Purva Bhadrapada"
+  },
+  {
+    "nakshatra": "Dhanishtha",
+    "pada": 1,
+    "front": "Ardra",
+    "right": "Hasta",
+    "left": "Uttara Bhadrapada"
+  },
+  {
+    "nakshatra": "Dhanishtha",
+    "pada": 2,
+    "front": "Ardra",
+    "right": "Hasta",
+    "left": "Uttara Bhadrapada"
+  },
+  {
+    "nakshatra": "Dhanishtha",
+    "pada": 3,
+    "front": "Ardra",
+    "right": "Hasta",
+    "left": "Uttara Bhadrapada"
+  },
+  {
+    "nakshatra": "Dhanishtha",
+    "pada": 4,
+    "front": "Ardra",
+    "right": "Hasta",
+    "left": "Uttara Bhadrapada"
+  },
+  {
+    "nakshatra": "Shatabhisha",
+    "pada": 1,
+    "front": "Punarvasu",
+    "right": "Chitra",
+    "left": "Revati"
+  },
+  {
+    "nakshatra": "Shatabhisha",
+    "pada": 2,
+    "front": "Punarvasu",
+    "right": "Chitra",
+    "left": "Revati"
+  },
+  {
+    "nakshatra": "Shatabhisha",
+    "pada": 3,
+    "front": "Punarvasu",
+    "right": "Chitra",
+    "left": "Revati"
+  },
+  {
+    "nakshatra": "Shatabhisha",
+    "pada": 4,
+    "front": "Punarvasu",
+    "right": "Chitra",
+    "left": "Revati"
+  },
+  {
+    "nakshatra": "Purva Bhadrapada",
+    "pada": 1,
+    "front": "Pushya",
+    "right": "Swati",
+    "left": "Ashwini"
+  },
+  {
+    "nakshatra": "Purva Bhadrapada",
+    "pada": 2,
+    "front": "Pushya",
+    "right": "Swati",
+    "left": "Ashwini"
+  },
+  {
+    "nakshatra": "Purva Bhadrapada",
+    "pada": 3,
+    "front": "Pushya",
+    "right": "Swati",
+    "left": "Ashwini"
+  },
+  {
+    "nakshatra": "Purva Bhadrapada",
+    "pada": 4,
+    "front": "Pushya",
+    "right": "Swati",
+    "left": "Ashwini"
+  },
+  {
+    "nakshatra": "Uttara Bhadrapada",
+    "pada": 1,
+    "front": "Ashlesha",
+    "right": "Vishakha",
+    "left": "Bharani"
+  },
+  {
+    "nakshatra": "Uttara Bhadrapada",
+    "pada": 2,
+    "front": "Ashlesha",
+    "right": "Vishakha",
+    "left": "Bharani"
+  },
+  {
+    "nakshatra": "Uttara Bhadrapada",
+    "pada": 3,
+    "front": "Ashlesha",
+    "right": "Vishakha",
+    "left": "Bharani"
+  },
+  {
+    "nakshatra": "Uttara Bhadrapada",
+    "pada": 4,
+    "front": "Ashlesha",
+    "right": "Vishakha",
+    "left": "Bharani"
+  },
+  {
+    "nakshatra": "Revati",
+    "pada": 1,
+    "front": "Magha",
+    "right": "Anuradha",
+    "left": "Krittika"
+  },
+  {
+    "nakshatra": "Revati",
+    "pada": 2,
+    "front": "Magha",
+    "right": "Anuradha",
+    "left": "Krittika"
+  },
+  {
+    "nakshatra": "Revati",
+    "pada": 3,
+    "front": "Magha",
+    "right": "Anuradha",
+    "left": "Krittika"
+  },
+  {
+    "nakshatra": "Revati",
+    "pada": 4,
+    "front": "Magha",
+    "right": "Anuradha",
+    "left": "Krittika"
+  }
+]
